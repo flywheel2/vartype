@@ -1,6 +1,6 @@
 {
-    "name": "flywheel2/var_type",
-    "description": "The Flywheel2 var_type package.",
+    "name": "flywheel2/vartype",
+    "description": "The Flywheel2 vartype package.",
     "license": "MIT",
     "homepage": "http://wkbd.ickx.jp/fw/",
     "support": {
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ickx\\fw2\\var_type\\": ""
+            "ickx\\fw2\\vartype\\": ""
         }
     },
     "extra": {
